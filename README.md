@@ -1,4 +1,4 @@
-<h1 align= "center"> Hi I am Vivek Sony </h1>
+<h1 align= "center"> Hi I am Vishal Sony </h1>
 
 <!-- ## Hi there 👋 -->
 
@@ -14,4 +14,4 @@
 
 ## 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Vtrrix&show_icons=true&hide_border=false&theme=tokyonight)
+![Github stats](https://github-readme-stats.vercel.app/api?username=grimm989&show_icons=true&hide_border=false&theme=tokyonight)
