@@ -3,7 +3,7 @@
 <!-- ## Hi there 👋 -->
 
 ### 🔭 I’m currently working on a personal project 
-### 🌱 I’m currently learning React Native
+### 🌱 I’m currently learning Spring Boot
 ### 👯 I’m looking to collaborate on Projects related to Web development
 ### 🤔 I’m looking for help with React
 ### 💬 Ask me about FrontEnd Web dev
