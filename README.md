@@ -5,7 +5,6 @@
 ### 🔭 I’m currently working on a personal project 
 ### 🌱 I’m currently learning Spring Boot
 ### 👯 I’m looking to collaborate on Projects related to Web development
-### 🤔 I’m looking for help with React
 ### 💬 Ask me about FrontEnd Web dev
 ### 📫 How to reach me: via mail @ vishalsonyabc@gmail.com via Linkedin @ https://www.linkedin.com/in/vishal-sony/
 ### 😄 Pronouns: Frontend Developer/Backend Developer or Future Full Stack Developer
