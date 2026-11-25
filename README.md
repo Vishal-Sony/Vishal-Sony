@@ -10,6 +10,6 @@ PostgreSQL schemas, Node/Python backends, React UIs.
 
 **Stack:** TypeScript · React · Next.js · Node.js · NestJS · Python · FastAPI · PostgreSQL · Prisma · Temporal · LLM APIs · FFmpeg
 
-**Currently learning:** Go and video streaming (HLS, adaptive bitrate). Building `streamlab` in public.
+**Currently learning:** Go and video streaming (HLS, adaptive bitrate).
 
 [LinkedIn](https://www.linkedin.com/in/vishal-sony) · vishalsonyabc@gmail.com
