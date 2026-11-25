@@ -1,23 +1,15 @@
-# Hi there 👋, I'm Vishal
+# Hi, I'm Vishal 👋
 
-**A Full Stack Developer integrating AI-driven capabilities with clean, scalable frontend architectures.**
+Full Stack Engineer building AI-powered product features and real-money product flows end to end:
+PostgreSQL schemas, Node/Python backends, React UIs.
 
-I focus on building high-performance web applications, modernizing UI ecosystems, and developing robust backend services to support seamless user experiences.
+**Recently shipped**
+- An AI comic-translation tool, used to localize comics into 5 Indian languages
+- A weekend migration of 5,000+ projects' data to PostgreSQL, cutting load times from over a minute to a few seconds or less
+- Real-money features on a Web3 platform with zero production incidents, in a team without dedicated QA
 
-### 🛠️ Tech Stack & Expertise
+**Stack:** TypeScript · React · Next.js · Node.js · NestJS · Python · FastAPI · PostgreSQL · Prisma · Temporal · LLM APIs · FFmpeg
 
-* **Frontend & UI:** React.js, Next.js, TypeScript, Tailwind CSS, Shadcn/UI, and MUI.
-* **Backend & APIs:** Python, Node.js, FastAPI, Go, and C/C++.
-* **AI & Systems:** AI Integrations, Web Audio API, and Streaming APIs.
-* **Databases:** PostgreSQL, Firebase, and Alembic.
+**Currently learning:** Go and video streaming (HLS, adaptive bitrate). Building `streamlab` in public.
 
-### 🚀 What I Do
-
-* Architect scalable, component-driven frontend platforms that prioritize performance.
-* Develop and weave AI-powered features into modern web applications.
-* Design normalized database schemas and optimize backend queries.
-
-### 📫 Let's Connect
-
-* **LinkedIn:** [vishal-sony](https://www.linkedin.com/in/vishal-sony)
-* **Email:** vishalsonyabc@gmail.com
+[LinkedIn](https://www.linkedin.com/in/vishal-sony) · vishalsonyabc@gmail.com
